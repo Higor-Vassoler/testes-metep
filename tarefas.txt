@@ -1,0 +1,30 @@
+Tarefa 1: Identificação dos dados
+Analise o código e identifique todos os campos que chegam ao backend na criação de um usuário e o tipo de cada valor enviado.
+Ex: campo: cor, tipo: string, etc.
+ 
+ 
+ 
+Tarefa 2: Identificação de objetos
+Com base nos dados identificados na tarefa anterior, verifique se existe algum campo que seja um objeto.
+Caso exista, identifique suas propriedades e os respectivos tipos.
+ 
+ 
+ 
+Tarefa 3: Origem da requisição
+Identifique qual função do frontend envia a requisição que chega na função criarUsuario, localizada no arquivo CRUD.js.
+Existe outra função no frontend que também faz uma requisição ao backend? Se sim, informe para qual rota e com qual método.
+ 
+ 
+ 
+Tarefa 4: Análise da comunicação entre frontend e backend
+Analise a função criarUsuario, localizada no arquivo CRUD.js, e compare sua implementação com os dados enviados pelo frontend e com a documentação da API.
+ 
+Verifique se:
+ 
+1. Todos os campos enviados pelo frontend estão sendo corretamente atribuídos ao objeto de usuário armazenado no banco de dados.
+ 
+2. Os campos estão sendo enviados e armazenados com os tipos de dados especificados na documentação da API.
+ 
+3. A organização dos dados enviados pelo frontend corresponde à maneira como o backend acessa essas informações.
+ 
+Caso identifique alguma inconsistência, explique-a.
