@@ -12,7 +12,6 @@ Caso exista, identifique suas propriedades e os respectivos tipos.
  
 Tarefa 3: Origem da requisição
 Identifique qual função do frontend envia a requisição que chega na função criarUsuario, localizada no arquivo CRUD.js.
-Existe outra função no frontend que também faz uma requisição ao backend? Se sim, informe para qual rota e com qual método.
  
  
  
