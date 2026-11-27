@@ -24,6 +24,4 @@ Verifique se:
  
 2. Os campos estão sendo enviados e armazenados com os tipos de dados especificados na documentação da API.
  
-3. A organização dos dados enviados pelo frontend corresponde à maneira como o backend acessa essas informações.
- 
 Caso identifique alguma inconsistência, explique-a.
